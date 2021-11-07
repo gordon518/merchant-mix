@@ -1,0 +1,8 @@
+com\merchant\demo\service\MerchantService.class
+com\merchant\demo\controller\MerchantController.class
+com\merchant\demo\MerchantApplication.class
+com\merchant\demo\model\Merchant.class
+com\merchant\demo\controller\GetMerchantsController.class
+com\merchant\demo\service\impl\MerchantServiceImpl.class
+com\merchant\demo\dao\MerchantMapper.class
+com\merchant\demo\dao\GetMerchantsMapper.class
